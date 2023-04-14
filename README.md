@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Daniel.
 - 👀 I’m interested in coding, cyberpunk sci-fi and Dark Soul games(when I'm not raging).
 - 🌱 I’m currently learning to be a DevOps engineer.
-- 💞️ I’m looking to learn more about python scripting.
+- 💻 I’m looking to improve my skills in Python scripting.
 - 📫 How to reach me: by email leinad dot ungureanu at gmail dot com
 
 <!---
